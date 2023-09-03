@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CodingIsAnArtOfMind
+- 👋 Hi, I’m Raza Mustafa
 - 👀 I’m interested in Coading
 - 🌱 I’m currently learning Microservices and Cloud
-- 💞️ I’m looking to collaborate on Microservices,Android & Cloud
+- 💞️ I’m looking to collaborate on Microservices & Cloud
 - 📫 How to reach me razamustafa.8@gmail.com
 
 <!---
